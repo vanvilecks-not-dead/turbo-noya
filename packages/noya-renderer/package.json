@@ -1,0 +1,14 @@
+{
+  "name": "@repo/noya-renderer",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "use-context-selector": "^2.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.0",
+    "canvas": "^2.6.1"
+  }
+}

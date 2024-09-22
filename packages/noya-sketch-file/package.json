@@ -1,0 +1,12 @@
+{
+  "name": "@repo/noya-sketch-file",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jszip": "^3.5.0"
+  },
+  "devDependencies": {
+    "@types/jszip": "^3.4.1"
+  }
+}

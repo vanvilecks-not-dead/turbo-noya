@@ -1,0 +1,9 @@
+{
+  "name": "@repo/noya-log",
+  "private": false,
+  "main": "./src/index.ts",
+  "version": "1.0.0",
+  "dependencies": {
+    "@amplitude/analytics-browser": "^1.8.0"
+  }
+}

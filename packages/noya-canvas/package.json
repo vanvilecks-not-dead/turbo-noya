@@ -1,0 +1,6 @@
+{
+  "name": "@repo/noya-canvas",
+  "private": false,
+  "main": "./src/index.ts",
+  "version": "1.0.0"
+}

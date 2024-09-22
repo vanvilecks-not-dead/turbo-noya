@@ -1,0 +1,9 @@
+{
+  "name": "@repo/canvaskit-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@repo/noya-renderer":"*",
+    "@repo/canvaskit":"*"
+  }
+}
